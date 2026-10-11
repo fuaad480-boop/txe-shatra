@@ -1,6 +1,7 @@
 name: Build Txe Shatra APK
 
-on:
+
+"on":
 push:
 branches: [main]
 workflow_dispatch:
